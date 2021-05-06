@@ -31,7 +31,7 @@ public class CriaConta {
         System.out.println("SEGUNDA CONTA");
         Conta segundaConta = new Conta(); //estanciando uma nova conta
         segundaConta.titular = "João";
-        segundaConta.saldo = 100;
+        segundaConta.saldo = 200;
         segundaConta.agencia = 5;
 
         System.out.println("Titular: " + segundaConta.titular);
