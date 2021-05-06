@@ -3,7 +3,7 @@ public class CriaConta {
     public static void main(String[] args) {
 
         Conta primeiraConta = new Conta();
-        primeiraConta.saldo = 100;
+        primeiraConta.saldo = 1000;
         primeiraConta.agencia = 1;
         primeiraConta.numero = 777;
         primeiraConta.titular = "Fulano";
