@@ -6,7 +6,7 @@ public class CriaConta {
         primeiraConta.saldo = 1000;
         primeiraConta.agencia = 1;
         primeiraConta.numero = 777;
-        primeiraConta.titular = "Fulano";
+        primeiraConta.titular = "Jose Junior ";
 
 
 
