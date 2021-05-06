@@ -30,7 +30,7 @@ public class CriaConta {
 
         System.out.println("SEGUNDA CONTA");
         Conta segundaConta = new Conta(); //estanciando uma nova conta
-        segundaConta.titular = "Fulano2";
+        segundaConta.titular = "João";
         segundaConta.saldo = 100;
         segundaConta.agencia = 5;
 
