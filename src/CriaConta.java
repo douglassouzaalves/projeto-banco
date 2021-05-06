@@ -10,7 +10,7 @@ public class CriaConta {
 
 
 
-        System.out.println("-=-=- MINEBANK -=-=-");
+        System.out.println("-=-=- MINE-BANK -=-=-");
         System.out.println();
 
         System.out.println("PRIMEIRA CONTA");
