@@ -4,6 +4,7 @@ public class CriaConta {
 
         Conta primeiraConta = new Conta();
         primeiraConta.saldo = 1000;
+        primeiraConta.deposita(50);
         primeiraConta.agencia = 1;
         primeiraConta.numero = 777;
         primeiraConta.titular = "Jose Junior ";
